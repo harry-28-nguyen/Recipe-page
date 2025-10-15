@@ -15,8 +15,8 @@
 ![](./Frontend_Mentor%20-%20Recipe_page.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution URL here](https://www.frontendmentor.io/solutions/recipe-page-html---css-flexbox-grid-responsive-o-gTLOLNxN)
+- Live Site URL: [My live site URL here](https://harry-28-nguyen.github.io/Recipe-page/)
 
 
 ## My process
